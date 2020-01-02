@@ -1,0 +1,24 @@
+{
+    "name": "suresh/jadav",
+    "description": "my composer module",
+    "type": "magento2-module",
+    "authors": [
+        {
+            "name": "Suresh Jadav",
+            "email": "suresh007105@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+         "psr-0": {
+            "jadav": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+
+}
