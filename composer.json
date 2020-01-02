@@ -3,7 +3,7 @@
     "description": "my composer module",
     "type": "magento2-module",
     "license": [
-        "Commercial"
+        "MIT"
     ],
     "authors": [
         {
