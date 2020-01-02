@@ -2,6 +2,9 @@
     "name": "suresh/jadav",
     "description": "my composer module",
     "type": "magento2-module",
+    "license": [
+        "Commercial"
+    ],
     "authors": [
         {
             "name": "Suresh Jadav",
